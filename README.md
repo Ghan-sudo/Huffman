@@ -1,4 +1,4 @@
-# Huffman SOrting Algorithm in C (Specificaly for text compression)
+# Huffman Sorting Algorithm in C (Specificaly for text compression)
 
 Uses a custom tree implementation. Has compression ration of about 43%
 
